@@ -149,6 +149,13 @@ a {
 .view-website {
   text-align: left;
 }
+.view-btn{
+  background-color: #ea4c88;
+}
+.view-btn:hover{
+  background-color: #848ccf;
+}
+
 
 /* academic work */
 
